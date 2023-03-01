@@ -1,13 +1,5 @@
-import SubHeading from './SubHeading/SubHeading';
-import Newsletter from './Footer/Newsletter';
-import FooterOverlay from './Footer/FooterOverlay';
-import MenuItem from './Menuitem/MenuItem';
-import Navbar from './Navbar/Navbar';
+import images from './images';
+import meal from '../assets/meal.mp4';
+import data from './data';
 
-export {
-  SubHeading,
-  Newsletter,
-  FooterOverlay,
-  MenuItem,
-  Navbar,
-};
+export { images, meal, data };
